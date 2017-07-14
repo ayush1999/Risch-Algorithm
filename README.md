@@ -14,3 +14,19 @@ Format: ![Alt Text](url)
     
 Various libraries like Sympy, Scipy use this.
 I will be uploading code of this algorithm (for any general kind of integration )soon. 
+
+A little insight into the Liouville Theorem:
+
+In symbolic mathematics, The liouville theorem gives us various boinds and conditions on the functions whose
+antiderivatives can be found. 
+It states that:
+For any differential field F, there is a subfield
+
+    Con(F) = {f in F | Df = 0},
+    
+        called the constants of F. Given two differential fields F and G, G is called a logarithmic extension of F if G is a simple                 transcendental extension of F (i.e. G = F(t) for some transcendental t) such that
+
+    Dt = Ds/s ,
+         
+                for some s in F.
+
